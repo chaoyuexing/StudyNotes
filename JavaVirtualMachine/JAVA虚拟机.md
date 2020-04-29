@@ -2,7 +2,7 @@
 
 我们现在提到的虚拟机都把它和Sun HotSpot VM等同.
 
-![Java技术体系](https://github.com/chaoyuexing/StudyNotes/blob/master/java%E8%99%9A%E6%8B%9F%E6%9C%BA/img/Java%E6%8A%80%E6%9C%AF%E4%BD%93%E7%B3%BB.jpg)
+![Java技术体系](https://github.com/chaoyuexing/StudyNotes/blob/master/JavaVirtualMachine/img/Java_repertoire.jpg)
 
 ## 特性
 - 平台无关性: Java虚拟机就是一个虚拟的计算机,有自己完善的硬件体系,堆栈,寄存器,对应的指令集,所有的都是有自己一套虚拟的规则
