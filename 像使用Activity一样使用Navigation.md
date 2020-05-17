@@ -66,7 +66,7 @@ Navigation(导航)是Android Jetpack框架中管理Fragmen的一个框架.
 
 ## StartActivity一样跳转
 
-#### 1 直接指定要跳转的`FragmentID`,ID是在假如Navigation.xml文件中生成的ID
+#### 1 直接指定要跳转的`FragmentID`,ID是在Navigation.xml文件中生成的ID
 
 ```
 root.findViewById<Button>(R.id.start_one_btn).setOnClickListener {
@@ -190,4 +190,8 @@ root.findViewById<Button>(R.id.back_home).setOnClickListener {
         findNavController().popBackStack(R.id.navigation_home, false)
 }
 ```
+
+
+
+
 
